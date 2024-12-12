@@ -24,9 +24,14 @@ Example: `npx serve --debug . -p 3000` or simply `npx serve`.
 
 Open the browser and look a the nice basemap of Monaco.
 
+## To Do 
+Add other objects with hosunumbers as buildings are not sufficient.
+
 ## Demo
 
 do-me.github.io/basemap-starter
+
+![image](https://github.com/user-attachments/assets/ec83bb6f-709b-481b-a88a-499516b9bcb0)
 
 ![image](https://github.com/user-attachments/assets/3527fe62-c084-458f-9a4f-96ce79315d52)
 
