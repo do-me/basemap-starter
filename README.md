@@ -1,5 +1,5 @@
 # basemap-starter
-Some getting started code to show a protomaps basemap in maplibre gl js
+Some getting started code to show a protomaps basemap in maplibre gl js adding housnumbers to protomaps
 
 ## Steps
 
@@ -9,7 +9,7 @@ Some getting started code to show a protomaps basemap in maplibre gl js
 
 `.setAttr("house_number", sf.getTag("addr:housenumber"))`
 
-- compile the tiles/target/protomaps-basemap-HEAD-with-deps.jar and run java -jar target/*-with-deps.jar --download --force --area=monaco
+- compile the `tiles/target/protomaps-basemap-HEAD-with-deps.jar` and run `java -jar target/*-with-deps.jar --download --force --area=monaco`
 
 Download here if you want to skip: https://github.com/user-attachments/files/18040328/monaco.pmtiles.zip
 
@@ -26,8 +26,11 @@ Open the browser and look a the nice basemap of Monaco.
 
 ## Demo
 
+do-me.github.io/basemap-starter
+
+![image](https://github.com/user-attachments/assets/3527fe62-c084-458f-9a4f-96ce79315d52)
 
 
 ## License
 
-`zurich.pmtiles` is made with OpenStreetMap data licensed as ODbL. The rest of the code is permissive.
+`monaco.pmtiles` is made with OpenStreetMap data licensed as ODbL. The rest of the code is permissive.
