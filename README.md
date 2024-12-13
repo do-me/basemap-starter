@@ -11,9 +11,6 @@ Some getting started code to show a protomaps basemap in maplibre gl js adding h
 
 - compile the `tiles/target/protomaps-basemap-HEAD-with-deps.jar` and run `java -jar target/*-with-deps.jar --download --force --area=monaco`
 
-Download here if you want to skip: https://github.com/user-attachments/files/18040328/monaco.pmtiles.zip
-
-
 2. Run web app
 
 Clone this repo
@@ -35,6 +32,9 @@ do-me.github.io/basemap-starter
 
 ![image](https://github.com/user-attachments/assets/3527fe62-c084-458f-9a4f-96ce79315d52)
 
+For 3D buildings with housnumbers use `style_3D.json`: 
+
+![image](https://github.com/user-attachments/assets/f2eabb85-ae4b-4a6c-af6c-3944283d52f0)
 
 ## License
 
