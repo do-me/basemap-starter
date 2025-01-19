@@ -1,0 +1,19 @@
+{
+  "name": "protonmapstest1",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "tauri": "tauri",
+    "build": "vite build",
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2",
+    "@vitejs/plugin-basic-ssl": "^1.2.0",
+    "maplibre-gl": "^4.0.0",
+    "pmtiles": "^3.0.6",
+    "vite": "^5.1.3",
+    "vite-plugin-static-copy": "^2.2.0"
+  }
+}
