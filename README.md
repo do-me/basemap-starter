@@ -1,5 +1,6 @@
 # basemap-starter
-Some getting started code to show a protomaps basemap in maplibre gl js adding housnumbers to protomaps
+Some getting started code to show a protomaps basemap in maplibre gl js adding housnumbers to protomaps.
+Vanilla JS + CDN example for minimal overhead.
 
 ## Steps
 
