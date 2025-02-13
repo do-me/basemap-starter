@@ -10,7 +10,7 @@ Vanilla JS + CDN example for minimal overhead.
 
 `.setAttr("house_number", sf.getTag("addr:housenumber"))`
 
-- compile the `tiles/target/protomaps-basemap-HEAD-with-deps.jar` and run `java -jar target/*-with-deps.jar --download --force --area=monaco`
+- compile the `tiles/target/protomaps-basemap-HEAD-with-deps.jar` with `mvn clean package` in tiles directory and run `java -jar target/*-with-deps.jar --download --force --area=monaco`
 
 2. Run web app
 
