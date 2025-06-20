@@ -2,6 +2,8 @@
 Some getting started code to show a protomaps basemap in maplibre gl js adding housnumbers and optionally roads under construction to protomaps.
 Vanilla JS + CDN example for minimal overhead.
 
+**UPDATE: Meanwhile housenumbers have been integrated in protomaps basemaps!**
+
 ## Steps
 
 1. Create pmtiles with housenumbers
